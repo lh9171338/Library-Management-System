@@ -1,0 +1,6 @@
+﻿  library.cpp
+d:\baidunetdiskdownload\图书馆\library\library\library.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+d:\baidunetdiskdownload\图书馆\library\library\library.cpp(983): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\baidunetdiskdownload\图书馆\library\library\library.cpp(1230): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  Library.vcxproj -> D:\BaiduNetdiskDownload\图书馆\Library\Debug\Library.exe
+  Library.vcxproj -> D:\BaiduNetdiskDownload\图书馆\Library\Debug\Library.pdb (Full PDB)
