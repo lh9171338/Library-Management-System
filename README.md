@@ -2,7 +2,7 @@
 A Library Management System demo implemented by C++
 
 # Environment
-OS: Windows 10
+OS: Windows 10  
 IDE: VS2015
 
 # Run
