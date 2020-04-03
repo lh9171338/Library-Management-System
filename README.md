@@ -1,9 +1,10 @@
-# Library-Management-System
-A Library Management System demo implemented by C++
+# 1. Introduction
+>>Library Management System implemented by C++.
 
-# Environment
-OS: Windows 10  
-IDE: VS2015
+# 2. Usage
+## 2.1 Environment
+>>OS: Windows 10  
+>>IDE: VS2015
 
-# Run
-Run in VS2015 or run Library.exe
+## 2.2 Run
+>>Run in VS2015 or run Library.exe.
