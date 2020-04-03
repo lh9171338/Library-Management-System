@@ -1,5 +1,5 @@
 # 1. Introduction
->>Library Management System implemented by C++.
+>>Library management system implemented by C++.
 
 # 2. Usage
 ## 2.1 Environment
