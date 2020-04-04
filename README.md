@@ -8,3 +8,6 @@
 
 ## 2.2 Run
 >>Run in VS2015 or run Library.exe.
+
+# 3. More Resources
+- [Github Link](https://github.com/lh9171338/Outline)
